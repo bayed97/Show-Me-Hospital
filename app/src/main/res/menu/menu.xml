@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".activities.MainActivity">
+
+    <item android:title="Main menu"
+        app:showAsAction="always"
+        android:icon="@mipmap/kebab">
+    <menu>
+        <item
+            android:id="@+id/form"
+            app:showAsAction="never"
+            android:title="User Form" />
+        <item
+            android:id="@+id/profile"
+            app:showAsAction="never"
+            android:title="About Us" />
+        <item
+            android:id="@+id/signout"
+            app:showAsAction="never"
+            android:title="Sign Out" />
+    </menu>
+    </item>
+</menu>

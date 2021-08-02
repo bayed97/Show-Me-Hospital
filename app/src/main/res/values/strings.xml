@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Show Me Hospital</string>
+    <string name="uitm">UNIVERSITI TEKNOLOGI MARA PERLIS BRANCH ARAU CAMPUS </string>
+    <string name="farid">MUHAMMAD FARID BIN MOHD BOHARI \n 2019359007</string>
+    <string name="iqy">MUHAMMAD FIKRI AMIR BIN JAAFAR \n 2019336197</string>
+    <string name="hisyam">MUHAMMAD HISYAMUDDIN BIN MD SUKRI \n 2019333981</string>
+    <string name="ipaa">SITI NUR AFIFAH BIN NORDIN \n 2019324155</string>
+    <string name="farah">NUR FARAH BINTI ZAIDI \n 2019335989</string>
+    <string name="farid2">2019359007</string>
+    <string name="copy">Copyright (C) 2021 Group Project ICT602 </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
