@@ -29,7 +29,7 @@ public class About extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse("https://github.com/bayed97/ict602project"));
+                intent.setData(Uri.parse("https://github.com/bayed97/Show-Me-Hospital"));
                 startActivity(intent);
             }
         });
